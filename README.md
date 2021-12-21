@@ -1,0 +1,2 @@
+# Credit-Card-Number-Validation-
+Program reads a text file containing card numbers. It checks whether the cards number is valid by computing the check digit and comparing it to the check digit on the card. Program displays whether the input contains the amount of digits the card should have, if the card is valid or not, and regardless of validation, it returns the inputted number as a base 18 number.
